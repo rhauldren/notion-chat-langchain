@@ -49,10 +49,10 @@ This will produce a `.zip` file in your Downloads folder. Move the `.zip` file i
 Either unzip the folder using 7-Zip (or WinZip) or run the following Unix/Linux command to unzip the zip file (replace the `Export...` with your own file name).
 
 ```shell
-unzip Export-d3adfe0f-3131-4bf3-8987-a52017fc1bae.zip -d Notion_DB
+unzip Export-d3adfe0f-3131-4bf3-8987-a52017fc1bae.zip -d dbtdocs_db
 ```
 
-You should see a `Notion_DB` folder in your root folder that contains markdown files and folders of your knowledge base.
+You should see a `dbtdocs_db` folder in your root folder that contains markdown files and folders of your knowledge base.
 
 ## Ingest data
 
